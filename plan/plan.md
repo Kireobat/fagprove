@@ -63,6 +63,10 @@ Hvis jeg får tid til å lagen en frontend, så blir det en SvelteKit applikasjo
 
 ## Skisser
 
+Skisser er tilgjengelig i `/plan/diagrams/` mappen.
+
+Jeg har brukt [draw.io](https://app.diagrams.net/) for å lage skissene, men de er eksportert som PNG for enkelhets skyld.
+
 ---
 
 ## Tids- og kostnadsestimat
@@ -86,6 +90,7 @@ Total kostnad lønn: **10303 NOK**
 - PostgreSQL: gratis
 - Jenkins: gratis
 - Nginx: gratis
+- Draw.io: gratis
 - Driftskostnader: ? NOK per år
 
 USD kostnad i NOK: `100 * 10,09 = 1009 NOK`
@@ -122,6 +127,9 @@ Total kostnad programmer, verktøy og utstyr: **? + 7910 NOK**
     - git identity manager
     - [https://www.npmjs.com/package/git-idm-npm](https://www.npmjs.com/package/git-idm-npm)
     - valgt fordi jeg ikke vil committe med jobb git til privat git sitt repo
+  - draw.io
+    - for skisser
+    - valgt fordi det er enkelt å bruke og gratis
   
 - Bygg og distribusjon
   - GitHub
