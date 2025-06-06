@@ -9,6 +9,14 @@
     - [Hovedfunksjonalitet](#hovedfunksjonalitet)
     - [Ekstra funksjonalitet (hvis tid)](#ekstra-funksjonalitet-hvis-tid)
   - [🚀 Fremgangsmåte](#-fremgangsmåte)
+    - [ting som gjøres hver dag](#ting-som-gjøres-hver-dag)
+    - [06.06.2025 Dag 1](#06062025-dag-1)
+    - [10.06.2025 Dag 2](#10062025-dag-2)
+    - [11.06.2025 Dag 3](#11062025-dag-3)
+    - [12.06.2025 Dag 4](#12062025-dag-4)
+    - [13.06.2025 Dag 5](#13062025-dag-5)
+    - [16.06.2025 Dag 6](#16062025-dag-6)
+    - [17.06.2025 Dag 7](#17062025-dag-7)
   - [⚠️ Avgrensninger](#️-avgrensninger)
   - [📊 Skisser](#-skisser)
   - [💰 Tids- og kostnadsestimat](#-tids--og-kostnadsestimat)
@@ -56,7 +64,92 @@ Utvikle et system for VerktøyPartner AS som gir bedre kontroll over verktøy og
 
 ## 🚀 Fremgangsmåte
 
-*[Dette kan fylles ut senere]*
+### ting som gjøres hver dag
+
+- **Daglig oppdatering av logg:** Oppdatere loggen med hva som er gjort hver dag.
+- **Oppdatere dokumentasjon:** Oppdatere dokumentasjonen hvis nødvendig.
+
+### 06.06.2025 Dag 1
+
+- **Oppstartsmøte med kunden:** Gå gjennom oppgaveteksten og kravene, avklare eventuelle uklarheter.
+- **Opprettelse av repo:** Opprette et nytt repo for fagprøven.
+- **Planlegging:**
+  - Lage en grov plan for utviklingen.
+    - Skriv ned verktøy og teknologier som skal brukes, samt lage skisser for systemet.
+    - Lage et tidsestimat for hver fase av utviklingen.
+  - Estimer kostnader for lønn og verktøy.
+  - Prøv å finne ut hva man får tid til å lage.
+
+### 10.06.2025 Dag 2
+
+- **Backend-utvikling:**
+  - Oppsett av Spring Boot-prosjekt med Kotlin.
+  - Opprette funksjonalitet for registrering av verktøy, skader, utlån og service.
+  - Opprette funksjonalitet for søk på verktøy, utlån og service.
+  - Opprette tester for funksjonaliteten.
+  - Oppsett av PostgreSQL-database for lagring av data.
+  - Opprette nødvendige filer for Jenkins og Docker (kan nok kopiere fra tidligere prosjekter).
+
+### 11.06.2025 Dag 3
+
+- **Backend-utvikling:**
+  - Fortsette med oppgavene fra forrige dag hvis de ikke er ferdig.
+  - Implementering av autentisering og autorisering for ansatte og kunder. (se på tidligere prosjekter for referanse og ers-tester)
+  - Implementering av gebyrhåndtering. (CRON jobb?)
+  - Kanskje en liten demo av systemet for kunden for å få tilbakemeldinger.
+
+- **Mulig endringsforslag:**
+  - Være forberedt på å gjøre endringer i systemet basert på tilbakemeldinger fra kunden.
+
+### 12.06.2025 Dag 4
+
+- **Backend-utvikling:**
+  - Fortsette med oppgavene fra forrige dag hvis de ikke er ferdig.
+
+- **Frontend-utvikling:**
+  - Oppsett av SvelteKit-prosjekt med TypeScript, Tailwind og Flowbite.
+  - Kanskje bruke [Google Stich](https://stitch.withgoogle.com/) for å gi meg ideer om designet.
+  - Lage en enkel frontend som lar ansatte og kunder kommunisere med API-et.
+    - Kunder skal kunne se om verktøy er tilgjengelig, mens ansatte skal ha tilgang til alt annet.
+  - Opprette sider for å se verktøy, skader, utlån og service.
+
+- **Mulig endringsforslag:**
+  - Være forberedt på å gjøre endringer i systemet basert på tilbakemeldinger fra kunden.
+
+### 13.06.2025 Dag 5
+
+- **Frontend-utvikling:**
+  - Fortsette med oppgavene fra forrige dag hvis de ikke er ferdig.
+  - Implementere funksjonalitet for å registrere verktøy, skader, utlån og service.
+  - Implementere søkefunksjonalitet for verktøy og utlån
+
+- **Annet:**
+  - Lage en presentasjon av systemet for kunden.
+  - Skrive noe om relevante lovverk (UU, GDPR, etc.) i dokumentasjonen.
+  - Forklare kort hvilke tiltak innenfor demokrati og medborgerskap, og bærekraft, har bedriften du har hatt læretiden i, gjennomført, eventuelt burde ha gjennomført.
+
+### 16.06.2025 Dag 6
+
+- **Frontend-utvikling:**
+  - Fortsette med oppgavene fra forrige dag hvis de ikke er ferdig.
+
+- **Annet:**
+  - Reservert tid til bugs og andre uforutsette hendelser.
+
+### 17.06.2025 Dag 7
+
+- **Egenvurdering:**
+  - Oppsummering av gjennomført oppgave.
+  - Begrunnelse av valg du har gjordt.
+  - Avvik i løsning i gorhold til plan eller oppgavetekst?
+  - Utfordringer
+  - Bruk av hjelpemidler (AI, kolleger, etc.)
+  - Hva kunne vært gjort annerledes eller bedre (prosess og resultat)?
+
+- **Framføring av fagprøve:**
+  - Presentere systemet for kunden.
+  - Gå gjennom dokumentasjonen og svare på eventuelle spørsmål.
+  - Få tilbakemeldinger fra kunden.
 
 ---
 
@@ -128,7 +221,7 @@ Skisser er tilgjengelig i [/plan/diagrams/](diagrams/) mappen.
 
 #### Visual Studio Code
 
-- **Frontend:** SvelteKit + TypeScript + Tailwind
+- **Frontend:** SvelteKit + TypeScript + Tailwind + Flowbite
   - *Valgt fordi jeg er mer komfortabel med SvelteKit enn React*
 - **Dokumentasjon:** Markdown
   - *Valgt fordi det er standard innen utvikling*
