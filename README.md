@@ -1,33 +1,33 @@
-# fagprove
+# 🎓 Fagprøve
 
-Finals week or my final week? Stay tuned next week... Let's see if I pass my classes or I pass away.
+> *Finals week or my final week? Stay tuned next week... Let's see if I pass my classes or I pass away.*
 
-## Innholdsfortegnelse
+## 📖 Innholdsfortegnelse
 
-- [fagprove](#fagprove)
-  - [Innholdsfortegnelse](#innholdsfortegnelse)
-  - [Oppgaven](#oppgaven)
-  - [Planlegging](#planlegging)
-  - [Logg](#logg)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
+- [🎓 Fagprøve](#-fagprøve)
+  - [📖 Innholdsfortegnelse](#-innholdsfortegnelse)
+  - [📋 Oppgaven](#-oppgaven)
+  - [📝 Planlegging](#-planlegging)
+  - [📊 Logg](#-logg)
+  - [⚙️ Backend](#️-backend)
+  - [🎨 Frontend](#-frontend)
 
-## Oppgaven
+## 📋 Oppgaven
 
-Oppgaven er tilgjengelig [her](/task/task.md)
+Oppgaven er tilgjengelig **[her](task/task.md)**
 
-## Planlegging
+## 📝 Planlegging
 
-Planlegging er tilgjengelig [her](/plan/plan.md)
+Planlegging er tilgjengelig **[her](plan/plan.md)**
 
-## Logg
+## 📊 Logg
 
-Logger er tilgjengelig [her](/logs/logs.md)
+Logger er tilgjengelig **[her](logs/logs.md)**
 
-## Backend
+## ⚙️ Backend
 
-Den er ikke begynt på enda
+> Status: Ikke påbegynt enda
 
-## Frontend
+## 🎨 Frontend
 
-Samme med denne
+> Status: Ikke påbegynt enda
