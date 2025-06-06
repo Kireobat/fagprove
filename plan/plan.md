@@ -6,6 +6,7 @@
   - [Innholdsfortegnelse](#innholdsfortegnelse)
   - [Mål med oppgaven](#mål-med-oppgaven)
   - [Krav til systemet](#krav-til-systemet)
+    - [Ekstra funksjonalitet (hvis tid)](#ekstra-funksjonalitet-hvis-tid)
     - [Notater (krav til systemet)](#notater-krav-til-systemet)
   - [Fremgangsmåte](#fremgangsmåte)
   - [Avgrensninger](#avgrensninger)
@@ -37,6 +38,10 @@
 - Søke i aktive og historiske utlån.
 - Kunder skal kun kunne se om et verktøy er tilgjengelig.
 - Ansatte skal ha tilgang på alt annet.
+
+### Ekstra funksjonalitet (hvis tid)
+
+- Mulighet for kunden å spørre om utlån av verktøy og kreve godkjenning fra ansatt.
 
 ### Notater (krav til systemet)
 
