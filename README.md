@@ -9,7 +9,7 @@
   - [📋 Oppgaven](#-oppgaven)
   - [📝 Planlegging](#-planlegging)
   - [📊 Logg](#-logg)
-  - [⚙️ Backend](#️-backend)
+  - [⚙️ Backend (tool-tracker)](#️-backend-tool-tracker)
   - [🎨 Frontend](#-frontend)
 
 ## 📋 Oppgaven
@@ -24,9 +24,9 @@ Planlegging er tilgjengelig **[her](plan/plan.md)**
 
 Logger er tilgjengelig **[her](logs/logs.md)**
 
-## ⚙️ Backend
+## ⚙️ Backend (tool-tracker)
 
-> Status: Ikke påbegynt enda
+Backend er tilgjengelig **[her](https://github.com/Kireobat/tool-tracker)**
 
 ## 🎨 Frontend
 

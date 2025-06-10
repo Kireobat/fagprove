@@ -2,7 +2,7 @@
 
 ## 🤖 AI-chatter
 
-Alle AI-chat-logger er tilgjengelige i [.specstory/history](.specstory/history) mappen.
+Alle AI-chat-logger er tilgjengelige i [/.specstory/history](/.specstory/history) mappen.
 
 > **Note:** Tidsstemplene på filene ser ikke ut til å være korrekte.
 
