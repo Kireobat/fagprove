@@ -9,3 +9,5 @@
 - [intelliJ IDEA pricing](https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly) - 06.06.2025 11:50
 - [copilot pro pricing](https://github.com/features/copilot#pricing) - 06.06.2025 11:51
 - [google stitch](https://stitch.withgoogle.com/) - 06.06.2025 15:41
+- [spring scheduled tasks](https://www.baeldung.com/spring-scheduled-tasks) - 11.06.2025 13:00
+- [cron expression generator](https://crontab.cronhub.io/) - 11.06.2025 13:07
