@@ -4,6 +4,8 @@
 
 Alle AI-chat-logger er tilgjengelige i [/.specstory/history](/.specstory/history) mappen.
 
+Tilsvarende mapper finnes også i backend og frontend repoene.
+
 > **Note:** Tidsstemplene på filene ser ikke ut til å være korrekte.
 
 ## 📅 Arbeidslogger
