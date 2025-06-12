@@ -30,4 +30,4 @@ Backend er tilgjengelig **[her](https://github.com/Kireobat/tool-tracker)**
 
 ## 🎨 Frontend
 
-> Status: Ikke påbegynt enda
+Frontend er tilgjengelig **[her](https://github.com/Kireobat/tool-tracker-web)**
