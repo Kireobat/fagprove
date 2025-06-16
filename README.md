@@ -11,6 +11,7 @@
   - [📊 Logg](#-logg)
   - [⚙️ Backend (tool-tracker)](#️-backend-tool-tracker)
   - [🎨 Frontend](#-frontend)
+  - [🔰 Dokumentasjons ting](#-dokumentasjons-ting)
 
 ## 📋 Oppgaven
 
@@ -31,3 +32,7 @@ Backend er tilgjengelig **[her](https://github.com/Kireobat/tool-tracker)**
 ## 🎨 Frontend
 
 Frontend er tilgjengelig **[her](https://github.com/Kireobat/tool-tracker-web)**
+
+## 🔰 Dokumentasjons ting
+
+Dokumentasjons oversikt er tilgjengelig **[her](docs/overview.md)**
