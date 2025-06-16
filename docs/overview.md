@@ -23,3 +23,7 @@
    1. [Bærekraft-rapport](reports/barekraft.md)
    2. [Demokrati-rapport](reports/demokrati.md)
    3. [Medborgerskap-rapport](reports/medborgerskap.md)
+
+## Egenvurdering
+
+se [egenvurdering.md](./egenvurdering.md) for egenvurderingen.
