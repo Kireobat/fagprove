@@ -2,6 +2,8 @@
 
 > *Finals week or my final week? Stay tuned next week... Let's see if I pass my classes or I pass away.*
 
+Update: I passed my classes, "Bestått meget godt"
+
 ## 📖 Innholdsfortegnelse
 
 - [🎓 Fagprøve](#-fagprøve)
